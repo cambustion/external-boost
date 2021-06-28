@@ -305,7 +305,7 @@
 	branch = .
 [submodule "build"]
 	path = tools/build
-        url = git@github.com:cambustion/external-boost-build.git
+	url = git@github.com:cambustion/external-boost-build.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "quickbook"]
